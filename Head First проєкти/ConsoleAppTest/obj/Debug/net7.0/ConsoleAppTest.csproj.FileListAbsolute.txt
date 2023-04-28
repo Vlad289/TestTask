@@ -1,0 +1,15 @@
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\bin\Debug\net7.0\ConsoleAppTest.exe
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\bin\Debug\net7.0\ConsoleAppTest.deps.json
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\bin\Debug\net7.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\bin\Debug\net7.0\ConsoleAppTest.dll
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\bin\Debug\net7.0\ConsoleAppTest.pdb
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.dll
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\refint\ConsoleAppTest.dll
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.pdb
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\Владык\Desktop\Head First проєкти\ConsoleAppTest\obj\Debug\net7.0\ref\ConsoleAppTest.dll
